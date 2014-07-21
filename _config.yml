@@ -1,7 +1,9 @@
 # Site settings
 title: Marcel Oomens
-email: mail@marceloomens.com
+subtitle: itinerant technologist and programmer
 description: "Itinerant technologist and programmer, news junkie, long-distance runner, collects books and has a love for travel and languages."
+email: mail@marceloomens.com
+mobile: +86 159 0102 7274
 baseurl: ""
 url: "http://marceloomens.com"
 twitter_username: marceloomens

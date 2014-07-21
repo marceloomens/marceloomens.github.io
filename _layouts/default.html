@@ -1,19 +1,26 @@
 <!DOCTYPE html>
 <html>
+{% include head.html %}
+<body>
 
-  {% include head.html %}
+    {% include nav.html %}
 
-    <body>
+    <div class="section-container-wrapper">
+        <div class="section-container">
+            
+            {% include header.html %}
 
-    {% include header.html %}
+            {{ content }}
 
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
-      </div>
-    </div>
+            {% include footer.html %}
 
-    {% include footer.html %}
+		</div>
+	</div>
 
-    </body>
+	<script data-main="js/config" src="js/require.js"></script>
+	<script>
+		// Add your Google Analytics code here
+	</script>
+
+</body>
 </html>
