@@ -10,15 +10,15 @@
 		styled: true,
 		disableDefaultUI: false,
 		scrollwheel: false,
-		latitude: 39.971944,
-		longitude: 116.505224,
+		latitude: 22.319259,
+		longitude: 114.169372,
 		zoom: 15,
 		hue: 'rgb(224, 107, 100)',
 		gamma: 1.75,
 		saturation: -80,
 		lightness: -10,
 		invertLightness: false,
-		infoWindowContentString: '<h4>Marcel Oomens</h4>' + '<p>Jiangfu Jiayuan Beili 127-2-802, Chaoyang, Beijing, China 100013</p>'
+		infoWindowContentString: '<h4>Info Window</h4>' + '<p>You can add content here</p>'
 	};
 
 	function GoogleMaps( element, options ) {
