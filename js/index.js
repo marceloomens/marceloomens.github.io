@@ -103,7 +103,7 @@ define(['jquery', 'hammer', 'bootstrap', 'setup', 'resize-text', 'bar-chart', 'd
 				saturation: -80,
 				lightness: -10,
 				invertLightness: false,
-				infoWindowContentString: '<h4>Marcel Oomens</h4>' + '<p>Jiangfu Jiayuan Beili 127-2-802, Chaoyang, Beijing, China 100013</p>'
+				infoWindowContentString: '<h4>Marcel Oomens</h4>' + '<p>Jiangfu Jiayuan Beili 127-2-802<br>Chaoyang, Beijing<br>China 100013</p>'
 			};
 
 		// Setup
