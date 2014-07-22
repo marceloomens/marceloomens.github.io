@@ -95,15 +95,15 @@ define(['jquery', 'hammer', 'bootstrap', 'setup', 'resize-text', 'bar-chart', 'd
 
 			googleMapsSettings = {
 				styled: true,
-				latitude: 22.319252,
-				longitude: 114.169355,
+				latitude: 39.971944,
+				longitude: 116.505224,
 				zoom: 15,
 				hue: primaryColor.toRgbaString(),
 				gamma: 1.75,
 				saturation: -80,
 				lightness: -10,
 				invertLightness: false,
-				infoWindowContentString: '<h4>Info Window</h4>' + '<p>You can add content here</p>',
+				infoWindowContentString: '<h4>Marcel Oomens</h4>' + '<p>Jiangfu Jiayuan Beili 127-2-802, Chaoyang, Beijing, China 100013</p>'
 			};
 
 		// Setup
