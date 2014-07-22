@@ -1,4 +1,4 @@
 marceloomens.github.io
 ======================
 
-Marcel Oomens | Itinerant technologist
+Marcel Oomens :: itinerant technologist
