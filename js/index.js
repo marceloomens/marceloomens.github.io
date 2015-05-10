@@ -95,15 +95,17 @@ define(['jquery', 'hammer', 'bootstrap', 'setup', 'resize-text', 'bar-chart', 'd
 
 			googleMapsSettings = {
 				styled: true,
-				latitude: 39.971944,
-				longitude: 116.505224,
-				zoom: 15,
+				// latitude: 39.971944,
+				// longitude: 116.505224,
+				latitude: 52.356921,
+				longitude: 4.9542533,
+				zoom: 12,
 				hue: primaryColor.toRgbaString(),
 				gamma: 1.75,
 				saturation: -80,
 				lightness: -10,
 				invertLightness: false,
-				infoWindowContentString: '<h4>Marcel Oomens</h4>' + '<p>Jiangfu Jiayuan Beili 127-2-802<br>Chaoyang, Beijing<br>China 100013</p>'
+				infoWindowContentString: '<h4>Marcel Oomens</h4>' + '<p>Science Park 140<br />Amsterdam, the Netherlands</p>'
 			};
 
 		// Setup
