@@ -1,13 +1,13 @@
 # Site settings
 title: Marcel Oomens
-subtitle: itinerant technologist and programmer
-description: "Itinerant technologist and programmer, news junkie, long-distance runner, collects books and has a love for travel and languages."
+subtitle: Itinerant technologist and programmer
+description: "Individuals and interactions over processes and tools. Not only individuals and interactions, but also a community of professionals."
 avatar: "/images/avatar.jpg"
 email: mail@marceloomens.com
-mobile: +86 159 0102 7274
+mobile: +31 6 1858 8374
 baseurl: "/"
 url: "www.marceloomens.com"
-timezone: Asia/Shanghai
+timezone: Europe/Amsterdam
 twitter_username: marceloomens
 github_username:  marceloomens
 
